@@ -1,0 +1,6 @@
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+    display: flex;  
+    width: 150%;
+    margin: auto;
+  }
